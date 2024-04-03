@@ -122,6 +122,16 @@
   - user_id
   - game_id
   - elo
+- Ranking
+  - id
+  - user_id
+  - game_id
+  - ranking
+  - elo
+  - created_at
+  - daily_change
+  - weekly_change
+  - monthly_change
 - Tournament
   - id
   - game_id
